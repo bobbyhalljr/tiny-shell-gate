@@ -1,0 +1,25 @@
+{
+  "name": "tiny-shell-gate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A shell command gate for agents in TypeScript: refuse syntax it cannot model, then approve exact commands. Mocked model, no API key.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Bobby Hall Jr (https://bhjr.dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyhalljr/tiny-shell-gate.git"
+  },
+  "scripts": {
+    "start": "tsx gate.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
