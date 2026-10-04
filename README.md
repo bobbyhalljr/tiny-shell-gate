@@ -96,7 +96,7 @@ This is a teaching gate.
 
 ## Read more
 
-- Dev.to: [Your Agent's Allowlist Is a Parser Bug: Build a Shell Command Gate in TypeScript](DEVTO_URL)
+- Dev.to: [Your Agent's Allowlist Is a Parser Bug: Build a Shell Command Gate in TypeScript](https://dev.to/bobbyhalljr/your-agents-allowlist-is-a-parser-bug-build-a-shell-command-gate-in-typescript-20je)
 - Substack: [Your Agent's Allowlist Is a Parser Bug: Build a Shell Command Gate in TypeScript](SUBSTACK_URL)
 
 ## License
